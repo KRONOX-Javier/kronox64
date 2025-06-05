@@ -1,4 +1,6 @@
-# kronox64 By Javier
+# By Javier
+
+# 
 
 # KRONOX
 
@@ -29,12 +31,4 @@ Inspired by the Titan of Time, KRONOX seeks to bring total control over executio
 - Clean syscall interface
 - Logging and debugging tools
 
----
 
-## 📂 Project Structure
-
-
-
-<img src="https://raw.githubusercontent.com/KRONOX-Javier/KRONOX-Javier/output/snake.svg" alt="Snake animation" />
-
-###
