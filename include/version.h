@@ -1,0 +1,10 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+#define KRONOX_VERSION_MAJOR 0
+#define KRONOX_VERSION_MINOR 1
+#define KRONOX_VERSION_PATCH 0
+
+#define KRONOX_VERSION_STRING "0.1.0"
+
+#endif /* VERSION_H
